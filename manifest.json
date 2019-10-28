@@ -1,0 +1,61 @@
+{
+   "author": "NguyenLinh-UET",
+   "content_scripts": [ {
+		"js": [ "js/autorun.js" ],
+		"css" : ["css/bootstrap.css"],
+		"matches": [
+					"*://qldt.ptit.edu.vn/*",
+					"*://daotao.hutech.edu.vn/*",
+					"*://qldt.cs2.ftu.edu.vn/*",
+					"*://sv.bdu.edu.vn/*",
+					"*://daotao.nuce.edu.vn/*",
+					"*://sdh.ou.edu.vn/*",
+					"*://daotao.hvpnvn.edu.vn/*",
+					"*://qldt.hanu.vn/*",
+					"*://daotao.vnua.edu.vn/*",
+					"*://dkmh.epu.edu.vn/*",
+					"*://qldt.ptit.info/*",
+					"*://congthongtin.hvnh.edu.vn/*",
+					"*://tinchitest.ftu.edu.vn/*",
+					"*://daotao.humg.edu.vn/*"
+		]
+	}],
+   "background": {
+      "scripts": ["js/background.js"],
+      "persistent": false
+	},
+   "manifest_version": 2,
+   "name": "Tool đăng kí học by NguyenLinh-UET",
+   "browser_action": {
+      "default_icon": "img/icon16.png",
+      "default_title": "Tool đăng kí học by NguyenLinh-UET",
+      "default_popup": "html/main.html"
+   },
+   "description": "Tool đăng kí học cho HANU,VNUA,PTIT,...",
+   "homepage_url": "https://www.facebook.com/kenny.nguyen.153",
+   "icons": {
+      "16": "img/icon16.png",
+      "48": "img/icon48.png",
+      "128": "img/icon128.png"
+   },   
+   "permissions": [ "tabs", 
+   					"*://qldt.ptit.edu.vn/*",
+					"*://daotao.hutech.edu.vn/*",
+					"*://qldt.cs2.ftu.edu.vn/*",
+					"*://sv.bdu.edu.vn/*",
+					"*://daotao.nuce.edu.vn/*",
+					"*://sdh.ou.edu.vn/*",
+					"*://daotao.hvpnvn.edu.vn/*",
+					"*://qldt.hanu.vn/*",
+					"*://daotao.vnua.edu.vn/*",
+					"*://dkmh.epu.edu.vn/*",
+					"*://qldt.ptit.info/*",
+					"*://congthongtin.hvnh.edu.vn/*",
+					"*://tinchitest.ftu.edu.vn/*",
+					"*://daotao.humg.edu.vn/*"
+				],
+   "version": "0.1",
+   "web_accessible_resources": [ 
+		"js/content.js" 
+   ]
+}

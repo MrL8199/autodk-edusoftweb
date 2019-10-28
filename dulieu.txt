@@ -1,0 +1,11 @@
+Ptit
+MAR142601    |MAR1426|Marketing công nghiệp|01|2|2|01/01/0001|0|0|0| |0|D17MR
+BAS110202    |BAS1102|Đường lối cách mạng của Đảng cộng sản Việt Nam|02|3|3|01/01/0001|0|0|0| |0|D17MR
+MAR142601    |MAR1426|Marketing công nghiệp|01|2|2|01/01/0001|0|0|0| |0|D17MR
+BAS110202    |BAS1102|Đường lối cách mạng của Đảng cộng sản Việt Nam|02|3|3|01/01/0001|0|0|0| |0|D17MR
+VNUA
+NH03025 01  1|NH03025|Quản lý dịch hại tổng hợp|01|2|2.0|01/01/0001|0|0|0||0|K62KHCT
+SN01033 02|SN01033|Tiếng Anh 2|02|3|3.0|01/01/0001|0|0|0||0|K62KHCT
+NH03016 03  1|NH03016|Cây thuốc|03|2|2.0|01/01/0001|0|0|0||0|K62KHCTA
+
+
