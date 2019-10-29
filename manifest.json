@@ -10,13 +10,13 @@
       "persistent": false
 	},
    "manifest_version": 2,
-   "name": "Tool đăng kí học by NguyenLinh-UET",
+   "name": "Tool đăng kí học EduSoft NguyenLinh-UET",
    "browser_action": {
       "default_icon": "img/icon16.png",
-      "default_title": "Tool đăng kí học by NguyenLinh-UET",
+      "default_title": "Tool đăng kí học EduSoft NguyenLinh-UET",
       "default_popup": "html/main.html"
    },
-   "description": "Tool đăng kí học cho HANU,VNUA,PTIT,...",
+   "description": "Tool đăng kí học cho HANU,VNUA,PTIT,BA...",
    "homepage_url": "https://www.facebook.com/nguyenlinh.uet",
    "icons": {
       "16": "img/icon16.png",
