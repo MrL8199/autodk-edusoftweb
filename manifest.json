@@ -2,23 +2,8 @@
    "author": "NguyenLinh-UET",
    "content_scripts": [ {
 		"js": [ "js/autorun.js" ],
-		"css" : ["css/bootstrap.css"],
-		"matches": [
-					"*://qldt.ptit.edu.vn/*",
-					"*://daotao.hutech.edu.vn/*",
-					"*://qldt.cs2.ftu.edu.vn/*",
-					"*://sv.bdu.edu.vn/*",
-					"*://daotao.nuce.edu.vn/*",
-					"*://sdh.ou.edu.vn/*",
-					"*://daotao.hvpnvn.edu.vn/*",
-					"*://qldt.hanu.vn/*",
-					"*://daotao.vnua.edu.vn/*",
-					"*://dkmh.epu.edu.vn/*",
-					"*://qldt.ptit.info/*",
-					"*://congthongtin.hvnh.edu.vn/*",
-					"*://tinchitest.ftu.edu.vn/*",
-					"*://daotao.humg.edu.vn/*"
-		]
+		"css" : [ "css/bootstrap.css" ],
+		"matches": [ "*://*/*efault.aspx*" ]
 	}],
    "background": {
       "scripts": ["js/background.js"],
@@ -38,22 +23,7 @@
       "48": "img/icon48.png",
       "128": "img/icon128.png"
    },   
-   "permissions": [ "tabs", 
-   					"*://qldt.ptit.edu.vn/*",
-					"*://daotao.hutech.edu.vn/*",
-					"*://qldt.cs2.ftu.edu.vn/*",
-					"*://sv.bdu.edu.vn/*",
-					"*://daotao.nuce.edu.vn/*",
-					"*://sdh.ou.edu.vn/*",
-					"*://daotao.hvpnvn.edu.vn/*",
-					"*://qldt.hanu.vn/*",
-					"*://daotao.vnua.edu.vn/*",
-					"*://dkmh.epu.edu.vn/*",
-					"*://qldt.ptit.info/*",
-					"*://congthongtin.hvnh.edu.vn/*",
-					"*://tinchitest.ftu.edu.vn/*",
-					"*://daotao.humg.edu.vn/*"
-				],
+   "permissions": [ "tabs", "*://*/*efault.aspx*" ],
    "version": "0.1",
    "web_accessible_resources": [ 
 		"js/content.js" 
