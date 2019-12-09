@@ -9,7 +9,6 @@
  - Lấy value môn học để đăng kí bằng value (Không cần phải tìm môn, chỉ cần dán value và bấm đăng ký).
  - Tự động chọn tất cả các môn trong danh sách
  - Lựa chọn tự động lưu đăng kí khi chọn hết các môn.
- - Bỏ qua kiểm tra điều kiện môn tiên quyết.
  - Reset tool: truy cập địa chỉ dạng yourwebsite.com/default.aspx?page=delete (ví dụ: daotao.vnua.edu.vn/default.aspx?page=delete)
 
 ## Một nhà trường sử dụng source của Anh Quân:
