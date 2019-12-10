@@ -2,7 +2,7 @@
    "author": "NguyenLinh-UET",
    "content_scripts": [ {
 		"js": [ "js/autorun.js" ],
-		"css" : ["css/bootstrap.css"],
+		"css" : ["css/bootstrap.min.css"],
 		"matches": [
 					"*://qldt.ptit.edu.vn/*",
 					"*://daotao.hutech.edu.vn/*",
