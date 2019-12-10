@@ -1,15 +1,15 @@
 # ToolDKHoc-FORPMANHQUAN
 # Giới thiệu
-Đây là tool đăng ký học mình viết cho các website sử dụng source của **cty Phần mềm Anh Quân**, nên các website mà ở cuối trang có dòng **Thiết kế bởi cty Phần mềm Anh Quân** đều dùng được nhé!
+Đây là tool đăng ký học mình viết cho các website sử dụng source của **cty Phần mềm Anh Quân**, nên các website mà ở footer có dòng **Thiết kế bởi cty Phần mềm Anh Quân** đều dùng được nhé!
 
 # Chức năng
 
+ - Tự động vượt Captcha.
  - Lưu tài khoản để tự động đăng nhập.
  - Chọn được môn trước giờ đăng ký. 
  - Lấy value môn học để đăng kí bằng value (Không cần phải tìm môn, chỉ cần dán value và bấm đăng ký).
  - Tự động chọn tất cả các môn trong danh sách
- - Lựa chọn tự động lưu đăng kí khi chọn hết các môn.
- - Reset tool: truy cập địa chỉ dạng yourwebsite.com/default.aspx?page=delete (ví dụ: daotao.vnua.edu.vn/default.aspx?page=delete)
+ - Lựa chọn tự động lưu đăng kí khi chọn hết các môn
 
 ## Một nhà trường sử dụng source của Anh Quân:
 
