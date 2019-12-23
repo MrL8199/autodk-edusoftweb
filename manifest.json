@@ -17,7 +17,8 @@
 					"*://qldt.ptit.info/*",
 					"*://congthongtin.hvnh.edu.vn/*",
 					"*://tinchitest.ftu.edu.vn/*",
-					"*://daotao.humg.edu.vn/*"
+					"*://daotao.humg.edu.vn/*",
+					"*://ftugate.ftu.edu.vn/*"
 		],
         "run_at": "document_idle"
 	}],
@@ -54,7 +55,8 @@
 					"*://qldt.ptit.info/*",
 					"*://congthongtin.hvnh.edu.vn/*",
 					"*://tinchitest.ftu.edu.vn/*",
-					"*://daotao.humg.edu.vn/*"
+					"*://daotao.humg.edu.vn/*",
+					"*://ftugate.ftu.edu.vn/*"
 				],
    "version": "0.1",
    "web_accessible_resources": [ 
